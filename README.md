@@ -96,7 +96,7 @@ pip install -r requirements.txt
 ```
 5. download weights file for the playing card detector model <a href="https://drive.google.com/uc?export=download&id=1-CASlZnJ9E4eyXDamMLOCAdW29_0Voas">here</a>
 6. Store the file in yolov5_share/runs/model_trained
-7. back in root directory, navigate to yolov5_share
+7. back in base repo directory, navigate to yolov5_share
 ```sh
 cd yolov5_share
 ```
